@@ -3,7 +3,7 @@ A = {19, 22, 24, 20, 25, 26}
 B = {19, 22, 20, 25, 26, 24, 28, 27}
 age = [22, 19, 24, 25, 26, 24, 25, 24]
 print(len(it_companies))
-it_companies.add("TCS")
+it_companies.add("twitter")
 print(it_companies)
 it_companies.update({"Sitel", "Knoah"})
 print(it_companies)
