@@ -1,4 +1,6 @@
 from math import pi
 Radius = float(input ("Circle Radius: "))
-print("Area of circle: " + str(pi *Radius**2))
-print("circumference of circle: " + str(2*pi*Radius))
+_area_of_circle_ = pi*Radius*Radius
+_circum_of_circle_ = 2*pi*Radius
+print(_area_of_circle_)
+print(_circum_of_circle_)
